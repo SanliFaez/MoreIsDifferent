@@ -91,3 +91,8 @@ venv.bak/
 # mypy
 .mypy_cache/
 
+.idea/MoreIsDifferent.iml
+.idea/inspectionProfiles/
+.idea/misc.xml
+.idea/modules.xml
+.idea/workspace.xml
