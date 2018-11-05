@@ -20,7 +20,7 @@ def sine_wave(x, peak=1, wavelength=20, phase = 0):
 
     Returns
     -------
-    waveform:
+    waveform: array of float numbers
     """
     twopi = 2 * np.pi
     waveform = peak * np.sin(twopi * x / wavelength + phase)
