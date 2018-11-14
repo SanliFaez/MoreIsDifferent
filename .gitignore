@@ -97,3 +97,4 @@ venv.bak/
 .idea/modules.xml
 .idea/workspace.xml
 .idea/vcs.xml
+*.xml
