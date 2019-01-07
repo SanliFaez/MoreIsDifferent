@@ -18,3 +18,4 @@
 * __Arno Hoefnagels__ Bloch waves for the nearly free electrons in a square lattice
 * __Fernando Conde Montero and Alex Israel__ Shockley equation for solar cells
 * __Tom Konings and Jerom Baas__ Tight binding model for 3D Anderson localization
+* __Osman Baran Özdemir__ Néel Model of Antiferromagnetism
