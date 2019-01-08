@@ -1,7 +1,6 @@
 ### List of topics chosen for the project
 
 * __?__ Spin waves
-* __?__ Hofstadter’s Butterfly
 * __Tom de Vries__ Tight Binding model on the cubic lattice to plot the Fermi surface
 * __Joy Dorant and Wessel Bouterse__ Phonon band structure for graphene
 * __Rik Spijkers__ Tight Binding model for the Hydrogen chain with S- and P- orbitals
@@ -19,3 +18,4 @@
 * __Fernando Conde Montero and Alex Israel__ Shockley equation for solar cells
 * __Tom Konings and Jerom Baas__ Tight binding model for 3D Anderson localization
 * __Osman Baran Özdemir__ Néel Model of Antiferromagnetism
+* __Cas Alderliesten__ Hofstadter’s Butterfly
